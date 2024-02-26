@@ -42,6 +42,10 @@ h2 {
 	color: #e9f2eb;
 }
 
+.light-background {
+	background-color: #e9f2eb;
+}
+
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
