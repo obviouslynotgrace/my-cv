@@ -13,13 +13,14 @@ body {
 }
 
 h1 {
-	color: #43436f
+	color: #43436f;
+	font-weight: bold;
 }
 
 .kanit-light {
 	font-family: "Kanit", sans-serif;
 	font-weight: 300;
-	font-style: normal;
+	font-style: italic;
   }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -36,8 +37,9 @@ h1 {
 	background-color: #e9f2eb;
 }
 
-.green-background {
-	background-color:#5f7565
+h2 {
+	background-color:#5f7565;
+	color: #e9f2eb;
 }
 
 /* Styles for lists in the document */
