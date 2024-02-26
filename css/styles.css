@@ -6,9 +6,13 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans";
 	color: #202030;
 	background-color: #f8f8fc;
+}
+
+h1 {
+	color: #43436f
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -23,6 +27,10 @@ body {
 
 .resume-aside {
 	background-color: #e9f2eb;
+}
+
+.green-background {
+	background-color:#5f7565
 }
 
 /* Styles for lists in the document */
